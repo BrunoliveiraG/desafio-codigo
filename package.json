@@ -10,5 +10,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "written-number": "^0.9.1"
   }
 }
